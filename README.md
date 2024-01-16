@@ -5,7 +5,7 @@
     Hey there.
 </h1>
 
-<p> I'm Sebastian, a student at MKA who enjoys programming in my free time.</p>
+<p align="center"> I'm Sebastian, a student at MKA who enjoys programming in my free time.</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
