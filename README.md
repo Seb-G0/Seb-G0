@@ -5,7 +5,6 @@
     Hey there.
 </h1>
 
-<p align="center"> I'm Sebastian, a student at MKA who enjoys programming in my free time.</p>
 
 ---
 
