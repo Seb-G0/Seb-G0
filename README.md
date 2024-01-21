@@ -9,6 +9,8 @@
   - 💻 You can learn more about me on my website: https://seb-g0.github.io/index.html
   - ⚡ Fun fact: I also enjoy playing and watching soccer. Go Man United!
 
+Below are some of my projects:
+
 
 
 <!--
