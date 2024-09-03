@@ -6,7 +6,7 @@
   - 🔭 I’m currently working on an algorithmic trading model that incorporates machine learning techniques to analyze market data and make data-driven decisions.
   - 🌱 I’m currently learning C++ and R.
   - 📫 How to reach me: srgonzal812@gmail.com
-  - 💻 You can learn more about me on my website: https://seb-g0.github.io/index.html
+  - 💻 You can learn more about me on my website: https://seb-g0.github.io/index.html (Out-of-date)
   - ⚡ Fun fact: I also enjoy playing and watching soccer. Go Man United!
 
 Below are some of my projects:
